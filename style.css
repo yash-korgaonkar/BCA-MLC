@@ -240,7 +240,7 @@ h2::after {
 .other-leadership-container {
     display: flex;
     justify-content: center;
-    gap: 2rem;
+    gap: 1.5rem;
     flex-wrap: wrap;
     text-align: center;
     margin-top: 2rem;
@@ -255,7 +255,7 @@ h2::after {
 
 .team-member.other-leadership {
     padding: 1.5rem 1rem;
-    max-width: 220px;
+    max-width: 200px;
     width: 100%;
 }
 
